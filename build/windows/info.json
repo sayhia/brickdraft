@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "0.1.0"
+	},
+	"info": {
+		"0409": {
+			"ProductVersion": "0.1.0",
+			"CompanyName": "Xiangsu Studio",
+			"FileDescription": "乐高微颗粒图设计工具",
+			"LegalCopyright": "© 2026, My Company",
+			"ProductName": "Xiangsu",
+			"Comments": "This is a comment"
+		}
+	}
+}
